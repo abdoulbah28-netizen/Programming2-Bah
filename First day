@@ -1,0 +1,5 @@
+print("this is my first git document")
+list = [("sword", 15),("potion", 1)]
+print(list)
+list.remove([1])
+print(list)
